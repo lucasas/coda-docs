@@ -53,7 +53,7 @@ module CodaDocs
     class CodaHttpClient
       extend TakesMacro
 
-      API_URL = "https://coda.io/apis/v1beta1".freeze
+      API_URL = "https://coda.io/apis/v1".freeze
 
       private
 
